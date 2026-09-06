@@ -1,0 +1,10 @@
+# 构建中间产物
+classes/
+*.class
+classes.jar
+classes.dex
+base.apk
+aligned.apk
+
+# 截图
+screen*.png
